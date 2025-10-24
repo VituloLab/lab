@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Bioinformatics solutions for molecular biology
-subtitle: 
-description: The VituloLab is a team of researchers at the University of Verona, Department of Biotechnology, where computational methods drive discovery. We tackle biological questions by designing adaptable bioinformatic and statistical approaches, building custom pipelines, and developing new methods tailored to the needs of each project. From microbial communities to genomic and omics data, we explore the molecular complexity of life. Through collaborations with clinicians, biotechnologists, and industry partners, we transform data into meaningful insights that advance both fundamental biology and applied innovation.
+title: VituloLab
+subtitle: Department of Biotechnology, University of Verona
+description: Bioinformatics solutions for molecular biology
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
